@@ -1,0 +1,3 @@
+[submodule "Demos/DesignPatterns/Command"]
+	path = Demos/DesignPatterns/Command
+	url = git@github.com:JayGrit/command-pattern.git
